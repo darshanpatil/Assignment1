@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+	<student>
+		<id>125</id>
+		<fName>Jackie</fName>
+		<lName>Doe</lName>
+		<score>453</score>
+	</student>
+	<student>
+		<id>124</id>
+		<fName>Jane</fName>
+		<lName>Doe</lName>
+		<score>543</score>
+	</student>
+	<student>
+		<id>123</id>
+		<fName>John</fName>
+		<lName>Doe</lName>
+		<score>234</score>
+	</student>
+</Students>
