@@ -1,0 +1,4 @@
+Id	|	First Name	|	Last Name	|	Score
+125	|	Jackie		|	Doe			|	453
+124	|	Jane		|	Doe			|	543
+123	|	John		|	Doe			|	234
